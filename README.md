@@ -103,11 +103,6 @@ and successfully implemented using Verilog HDL.
 <img width="598" height="369" alt="WhatsApp Image 2026-10-21 at 13 20 49" src="https://github.com/user-attachments/assets/a1627d3f-06a2-48cc-85e3-2b30d2aa2974" />
 
 
-## OUTPUT
-
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/00c89920-d5e2-4c0c-a590-fedd31731cbb" />
-
-
 Result
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
 
